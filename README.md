@@ -1,3 +1,9 @@
+ALL CREDITS TO SKELI:
+https://github.com/Skeli789/Dynamic-Pokemon-Expansion/tree/master
+
+9 GEN SPRITES CREDITS: 
+https://whackahack.com/foro/threads/9-gen-sprites.67492/
+
 # Dynamic-Pokemon-Expansion [FR]
 
 ## What is this:
